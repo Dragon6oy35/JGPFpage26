@@ -1,5 +1,5 @@
 h1{
-    color: #dd0f0f;
+    color: #e994948a;
     margin-left: 20px
 }
 
@@ -13,8 +13,8 @@ p{ font-size: 25px; }
     text-align: center;
     text-decoration: none;
     outline: none;
-    color: rgba(68, 0, 255, 0.336);
-    background-color: #dd0f0f;
+    color: rgb(244, 244, 247);
+    background-color: rgba(68, 0, 255, 0.336);
     border: none;
     border-radius: 5px;
     box-shadow: 0 9px #5f5858;
