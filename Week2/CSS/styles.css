@@ -1,0 +1,22 @@
+h1{
+    colour: #dd0f0f;
+    margin-left: 20px
+}
+
+p{ font-size: 25px; }
+
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: rgba(68, 0, 255, 0.336);
+    background-color: #dd0f0f;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+}
